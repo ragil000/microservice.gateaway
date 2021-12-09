@@ -1,0 +1,16 @@
+{
+    "services": {
+        "auth": {
+            "apiName": "auth",
+            "protocol": "http",
+            "host": "127.0.0.1",
+            "port": "3200"
+        },
+        "master": {
+            "apiName": "master",
+            "protocol": "http",
+            "host": "127.0.0.1",
+            "port": "3300"
+        }
+    }
+}
